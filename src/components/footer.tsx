@@ -96,13 +96,13 @@ const Footer = async () => {
         <p>
           • Development by
           <a
-            href="https://www.victorwilliams.me"
+            href="https://www.linkedin.com/in/syed-moinuddin106/"
             target="_blank"
             className="mx-[5px] cursor-pointer !text-white underline underline-offset-2 transition-all duration-300 hover:!text-inherit hover:no-underline"
           >
-            Victor Williams
+            Syed Moinuddin
           </a>
-          — @2024, SYNTHETIX
+          — @2024 - 2026, SYNTHETIX
         </p>
       </div>
     </footer>
