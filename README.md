@@ -23,7 +23,7 @@ Synthetix is a website built for AI startups to showcase their services and mark
 Clone the project
 
 ```bash
-  git clone https://github.com/victorcodess/synthetix
+  git clone https://github.com/SyedMoin-lab/Synthetix-AI-startups
 ```
 
 Go to the project directory
@@ -50,12 +50,8 @@ This project is open source, and you are welcome to use the code or parts of the
 
 If you are using the site’s codebase largely unmodified, please credit me as the developer of the website.
 
-If you have any questions or concerns, please feel free to contact me on [Twitter.](https://twitter.com/victorwill__) I am always happy to help!
+If you have any questions or concerns, please feel free to contact me on [LinkedIn.](https://www.linkedin.com/in/syed-moinuddin106/) I am always happy to help!
 
-
-## Feedback
-
-While I would not be accepting contributions or pull requests at this time, I appreciate your feedback on this project. If you have any suggestions or questions, please don’t hesitate to reach out to me on [Twitter.](https://twitter.com/victorwill__) Your feedback is valuable and will help me improve.
 
 ## License
 
