@@ -1,4 +1,4 @@
-# Synthetix — Website for AI Startups
+# Synthetix — Website for AI Startups only.......
 
 Synthetix is a website built for AI startups to showcase their services and mark their online presence. Discover cutting-edge AI data processing solutions tailored to your needs.
 
